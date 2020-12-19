@@ -1,0 +1,8 @@
+* Big Data Analytics Project
+This is the final project for the Big Data Analytics at the [[https://www.urv.cat/en/][Rovira i Virgili University]] in Tarragona. The project includes
+1. Problem description
+2. Data gathering and storage
+3. Data description
+4. Data cleaning
+5. Data analysis
+6. Conclusions
